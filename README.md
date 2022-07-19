@@ -1,6 +1,6 @@
-# OC_P10 Application Web Django
+# OC_P10 API sécurisée RESTful
 
-Neuvième projet de la formation "Développeur d'application - Python" d'OpenClassrooms dont le but est de créer une application Django permettant à des utilisateurs de demander ou donner des avis sur des livres.
+Dixième projet de la formation "Développeur d'application - Python" d'OpenClassrooms dont le but est de créer une API basée sur Django REST permettant permettant de remonter et suivre des problèmes techniques.
 
 ## Pour commencer
 

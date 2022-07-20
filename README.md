@@ -44,10 +44,8 @@ python3 manage.py runserver
 ```
 ## Tester les reuqêtes de l'API
 
-Utilisez Postman et référez vous à la documentation des endpoints suivante :
-```
-[a link](https://documenter.getpostman.com/view/18296493/UzQypNFX)
-```
+Utilisez Postman et référez vous à la documentation suivante : [Doc endpoints](https://documenter.getpostman.com/view/18296493/UzQypNFX)
+
 
 ## Auteur
 

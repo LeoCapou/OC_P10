@@ -38,9 +38,15 @@ pip install -r requirements.txt
 
 ## Exécution du programme
 
-Une fois la console placée dans le dossier du programme, il suffit d'exécuter la commande suivante dans l'environnement virtuel:
+Se placer dans le dossier `/SoftDesk` de l'environnement virtuel et exécuter la commander suivante :
 ```
 python3 manage.py runserver
+```
+## Tester les reuqêtes de l'API
+
+Utilisez Postman et référez vous à la documentation des endpoints suivante :
+```
+[a link](https://documenter.getpostman.com/view/18296493/UzQypNFX)
 ```
 
 ## Auteur

@@ -221,7 +221,7 @@ class ProjectsViewset(ModelViewSet):
     permission_classes = [IsAuthenticated & Access_Project]
 
     def get_queryset(self):
-        return Projects.objects.filter(author_user_id=self.request.user)
+        return Projects.objects.filter(pk=self.kwargs["pk"])
 
     def create(self, request):
         try:
